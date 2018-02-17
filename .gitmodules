@@ -38,3 +38,7 @@
 	path = elinks
 	url = https://github.com/shedbuilt/elinks.git
 	branch = .
+[submodule "screen"]
+	path = screen
+	url = https://github.com/shedbuilt/screen.git
+	branch = .
