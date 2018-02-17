@@ -34,3 +34,7 @@
 	path = nano
 	url = https://github.com/shedbuilt/nano.git
 	branch = .
+[submodule "elinks"]
+	path = elinks
+	url = https://github.com/shedbuilt/elinks.git
+	branch = .
