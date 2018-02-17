@@ -1,0 +1,36 @@
+[submodule "libevent"]
+	path = libevent
+	url = https://github.com/shedbuilt/libevent.git
+	branch = .
+[submodule "libxslt"]
+	path = libxslt
+	url = https://github.com/shedbuilt/libxslt.git
+	branch = .
+[submodule "libxml2"]
+	path = libxml2
+	url = https://github.com/shedbuilt/libxml2.git
+	branch = .
+[submodule "libarchive"]
+	path = libarchive
+	url = https://github.com/shedbuilt/libarchive.git
+	branch = .
+[submodule "libuv"]
+	path = libuv
+	url = https://github.com/shedbuilt/libuv.git
+	branch = .
+[submodule "cmake"]
+	path = cmake
+	url = https://github.com/shedbuilt/cmake.git
+	branch = .
+[submodule "tmux"]
+	path = tmux
+	url = https://github.com/shedbuilt/tmux.git
+	branch = .
+[submodule "yaml-cpp"]
+	path = yaml-cpp
+	url = https://github.com/shedbuilt/yaml-cpp.git
+	branch = .
+[submodule "nano"]
+	path = nano
+	url = https://github.com/shedbuilt/nano.git
+	branch = .
