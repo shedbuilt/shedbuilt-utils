@@ -42,3 +42,7 @@
 	path = screen
 	url = https://github.com/shedbuilt/screen.git
 	branch = .
+[submodule "unzip"]
+	path = unzip
+	url = https://github.com/shedbuilt/unzip.git
+	branch = .
