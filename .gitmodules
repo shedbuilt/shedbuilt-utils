@@ -34,10 +34,6 @@
 	path = nano
 	url = https://github.com/shedbuilt/nano.git
 	branch = .
-[submodule "elinks"]
-	path = elinks
-	url = https://github.com/shedbuilt/elinks.git
-	branch = .
 [submodule "screen"]
 	path = screen
 	url = https://github.com/shedbuilt/screen.git
@@ -46,3 +42,15 @@
 	path = unzip
 	url = https://github.com/shedbuilt/unzip.git
 	branch = .
+[submodule "glib2"]
+	path = glib2
+	url = https://github.com/shedbuilt/glib2.git
+    branch = .
+[submodule "gobject-introspection"]
+	path = gobject-introspection
+	url = https://github.com/shedbuilt/gobject-introspection.git
+    branch = .
+[submodule "libicu"]
+	path = libicu
+	url = https://github.com/shedbuilt/libicu.git
+    branch = .
