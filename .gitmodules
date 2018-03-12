@@ -54,3 +54,7 @@
 	path = libicu
 	url = https://github.com/shedbuilt/libicu.git
     branch = .
+[submodule "perl_html-parser"]
+	path = perl_html-parser
+	url = https://github.com/shedbuilt/perl_html-parser.git
+	branch = .
