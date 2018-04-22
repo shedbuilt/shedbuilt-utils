@@ -58,3 +58,11 @@
 	path = perl_html-parser
 	url = https://github.com/shedbuilt/perl_html-parser.git
 	branch = .
+[submodule "talloc"]
+	path = talloc
+	url = https://github.com/shedbuilt/talloc.git
+	branch = .
+[submodule "cifs-utils"]
+	path = cifs-utils
+	url = https://github.com/shedbuilt/cifs-utils.git
+	branch = .
