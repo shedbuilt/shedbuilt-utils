@@ -66,3 +66,11 @@
 	path = cifs-utils
 	url = https://github.com/shedbuilt/cifs-utils.git
 	branch = .
+[submodule "sqlite3"]
+	path = sqlite3
+	url = https://github.com/shedbuilt/sqlite3.git
+    branch = .
+[submodule "dbus-glib"]
+	path = dbus-glib
+	url = https://github.com/shedbuilt/dbus-glib.git
+    branch = .
