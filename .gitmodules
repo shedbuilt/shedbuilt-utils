@@ -74,3 +74,15 @@
 	path = dbus-glib
 	url = https://github.com/shedbuilt/dbus-glib.git
     branch = .
+[submodule "newt"]
+	path = newt
+	url = https://github.com/shedbuilt/newt.git
+	branch = .
+[submodule "popt"]
+	path = popt
+	url = https://github.com/shedbuilt/popt.git
+	branch = .
+[submodule "slang"]
+	path = slang
+	url = https://github.com/shedbuilt/slang.git
+	branch = .
