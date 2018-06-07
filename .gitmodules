@@ -86,3 +86,7 @@
 	path = slang
 	url = https://github.com/shedbuilt/slang.git
 	branch = .
+[submodule "libusb"]
+	path = libusb
+	url = https://github.com/shedbuilt/libusb.git
+    branch = .
