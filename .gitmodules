@@ -90,3 +90,51 @@
 	path = libusb
 	url = https://github.com/shedbuilt/libusb.git
     branch = .
+[submodule "bzip2"]
+	path = bzip2
+	url = https://github.com/shedbuilt/bzip2.git
+	branch = .
+[submodule "curl"]
+	path = curl
+	url = https://github.com/shedbuilt/curl.git
+	branch = .
+[submodule "e2fsprogs"]
+	path = e2fsprogs
+	url = https://github.com/shedbuilt/e2fsprogs.git
+	branch = .
+[submodule "grep"]
+	path = grep
+	url = https://github.com/shedbuilt/grep.git
+	branch = .
+[submodule "gzip"]
+	path = gzip
+	url = https://github.com/shedbuilt/gzip.git
+	branch = .
+[submodule "less"]
+	path = less
+	url = https://github.com/shedbuilt/less.git
+	branch = .
+[submodule "psmisc"]
+	path = psmisc
+	url = https://github.com/shedbuilt/psmisc.git
+	branch = .
+[submodule "tar"]
+	path = tar
+	url = https://github.com/shedbuilt/tar.git
+	branch = .
+[submodule "vim"]
+	path = vim
+	url = https://github.com/shedbuilt/vim.git
+	branch = .
+[submodule "wget"]
+	path = wget
+	url = https://github.com/shedbuilt/wget.git
+	branch = .
+[submodule "which"]
+	path = which
+	url = https://github.com/shedbuilt/which.git
+	branch = .
+[submodule "xz"]
+	path = xz
+	url = https://github.com/shedbuilt/xz.git
+	branch = .
