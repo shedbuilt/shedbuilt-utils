@@ -138,3 +138,7 @@
 	path = xz
 	url = https://github.com/shedbuilt/xz.git
 	branch = .
+[submodule "sed"]
+	path = sed
+	url = https://github.com/shedbuilt/sed.git
+	branch = .
